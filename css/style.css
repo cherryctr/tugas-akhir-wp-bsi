@@ -489,6 +489,12 @@ header .fa-bars{
 /* media queries  */
 @media (max-width:991px){
     
+    .img-responsive{
+        width: 489px;
+        height: 407px;
+        margin-left: 35px;
+    }
+
     html{
         font-size: 55%;
     }
@@ -514,9 +520,9 @@ header .fa-bars{
     }
 
     .img-responsive{
-        width: 489px;
-        height: 407px;
-        margin-left: 35px;
+        width: 353px;
+        height: 316px;
+        margin-left: 55px;
     }
 
     header .navbar{
@@ -558,7 +564,13 @@ header .fa-bars{
 }
 
 @media (max-width:450px){
-    
+    .img-responsive{
+        width: 300px;
+        height: 257px;
+        margin-left: 35px;
+    }
+
+
     html{
         font-size: 50%;
     }
