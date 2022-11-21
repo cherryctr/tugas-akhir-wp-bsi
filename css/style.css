@@ -581,7 +581,7 @@ header .fa-bars{
 
 }
 
-@media (min-width:200px){
+@media (max-width:200px){
     .img-responsive{
         width: 204px;
         height: 174px;
