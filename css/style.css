@@ -565,7 +565,7 @@ header .fa-bars{
 
 @media (max-width:450px){
     .img-responsive{
-        width: 365px;
+        width: 265px;
         height: 217px;
         margin-left: 4px;
     }
